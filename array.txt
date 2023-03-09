@@ -1,0 +1,65 @@
+const menu = [
+  {
+    id: 1,
+    title: 'Beans',
+    category: 'Breakfast',
+    img: './images/item1.jpeg',
+    desc: 'Beans are not only a great source of protein and fiber, but they also have a fascinating history. Did you know that beans have been cultivated for over 7,000 years and were one of the first crops to be domesticated by humans? Additionally, the largest bean producing country in the world is Brazil, followed by India and Myanmar.',
+  },
+  {
+    id: 2,
+    title: 'Fufu',
+    category: 'Lunch',
+    img: './images/item2.jpeg',
+    desc: 'Fufu is a starchy, dough-like dish that is a staple food in many African countries. It is typically made by boiling starchy vegetables like cassava, yams, or plantains and then pounding them into a smooth, elastic dough. Fufu is often eaten with soup or stew and is a popular dish in West and Central Africa. In some cultures, fufu is eaten with the hands and is used as a utensil to scoop up the soup or stew.',
+  },
+  {
+    id: 3,
+    title: 'French Fries',
+    category: 'Lunch',
+    img: './images/item3.jpeg',
+    desc: 'French fries, also known as chips or finger chips, actually originated in Belgium, not France. They were first introduced in the late 17th century and were originally fried fish, but when the river froze over in the winter, people started frying potatoes instead. French fries became popular in the United States in the early 20th century and are now enjoyed all over the world.',
+  },
+  {
+    id: 4,
+    title: 'Popcorn',
+    category: 'Snacks',
+    img: './images/item4.jpeg',
+    desc: 'Popcorn is a type of corn that has a hard outer shell and a soft, starchy inside. When heated, the moisture inside the kernel turns to steam and creates pressure, causing the kernel to explode and turn inside out. Popcorn has been enjoyed for thousands of years and was even used as a decoration by Native Americans before it became a popular snack. Today, the United States is the largest producer of popcorn in the world, with the state of Indiana being the top producer.',
+  },
+  {
+    id: 5,
+    title: 'Hamburger',
+    category: 'Snacks',
+    img: './images/item5.jpeg',
+    desc: 'The hamburger, which is a sandwich consisting of a cooked patty of ground meat usually placed inside a sliced bread roll, is a popular food item that originated in the United States. However, its exact origins are somewhat disputed. Some people believe that the hamburger was first created in the late 1800s by a German immigrant in New York City, while others credit the invention to a restaurant in Wisconsin. Regardless of its origins, the hamburger has become an iconic American food and is enjoyed all over the world.',
+  },
+  {
+    id: 6,
+    title: 'Jollof Rice',
+    category: 'Breakfast',
+    img: './images/item6.jpeg',
+    desc: 'Jollof rice is a popular West African dish that is made with rice, tomatoes, onions, and a variety of spices. It is believed to have originated in the Senegambia region of West Africa and has since become a staple food in many African countries. Jollof rice is often served at weddings, parties, and other special occasions, and there is even an ongoing debate over which country makes the best version of the dish. In fact, there is an annual Jollof Rice Festival held in several African countries to celebrate the dish and determine which country version is the best.',
+  },
+  {
+    id: 7,
+    title: 'White Rice',
+    category: 'Breakfast',
+    img: './images/item7.jpeg',
+    desc: 'White rice and stew is a popular dish in many cultures around the world. The dish typically consists of white rice, which is boiled or steamed, and a stew made with meat, vegetables, and spices. While the origins of the dish are unclear, it has been a staple food in many cultures for centuries. In some cultures, the dish is eaten with the hands, while in others it is eaten with utensils. White rice and stew is a versatile dish that can be customized to suit individual tastes and preferences, and it is enjoyed by people of all ages and backgrounds.',
+  },
+  {
+    id: 8,
+    title: 'Pasta',
+    category: 'Lunch',
+    img: './images/item9.jpeg',
+    desc: 'Pasta is a staple food in Italian cuisine and is enjoyed all over the world. It is made from a mixture of flour, eggs, and water, and can be shaped into a variety of different forms, including spaghetti, penne, and lasagna. While pasta is often associated with Italy, it is believed to have originated in China over 4,000 years ago. It was brought to Italy by Marco Polo in the 13th century and quickly became popular among the Italian people. Today, pasta is enjoyed in many different ways, from simple dishes like spaghetti with tomato sauce to more complex dishes like lasagna and fettuccine alfredo.',
+  },
+  {
+    id: 9,
+    title: 'Pizza',
+    category: 'Snacks',
+    img: './images/item10.jpeg',
+    desc: 'Pizza is a popular food that originated in Italy but has since become a staple food in many countries around the world. It typically consists of dough that is topped with tomato sauce, cheese, and a variety of other ingredients, such as meats, vegetables, and spices. While pizza has been around for centuries, it was not  until the late 1800s that the modern pizza as we know it today was created. This happened in Naples, Italy, where pizza makers began adding tomato sauce and cheese to their pizzas. Today, pizza is enjoyed in many different variations and has become a beloved food in many cultures.',
+  }
+]
